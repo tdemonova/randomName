@@ -1,0 +1,19 @@
+.card-header {
+    background-color: aquamarine;
+}
+
+.m-0 {
+    font-weight: bold;
+}
+
+.card-body {
+    background-color: beige;
+}
+
+#surnameOutput {
+    color: brown;
+}
+
+#firstNameOutput {
+    color: brown;
+}
